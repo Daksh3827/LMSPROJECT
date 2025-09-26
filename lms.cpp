@@ -137,7 +137,7 @@ public:
     void displayDetails() override
     {
         cout << endl;
-        cout << "-----DVD Details-----" << endl;
+        cout << "-----Magazine Details-----" << endl;
         cout << "Title of the DVD is: " << title << endl;
         cout << "Author of the DVD is: " << author << endl;
         cout << "Due date of the DVD is: " << due_date << endl
