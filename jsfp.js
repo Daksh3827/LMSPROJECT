@@ -16,10 +16,10 @@
 // var name = prompt("Enter UserName: ");
 // var pwd = prompt("Enter Password: ");
 // if (name === ogname && pwd === ogpwd) {
-//     alert("AApka Swagat Hai");
+//     alert("Aapka Swagat Hai");
 // }
 // else {
-//     alert("Chala Ja  BSDK");
+//     alert("soch samajh ke dalna bhai");
 // }
 
 
@@ -41,7 +41,7 @@
 //     alert("D Grade");
 // }
 // else {
-//     alert("Nikal Lawde");
+//     alert("agle Saal try karna");
 // }
 
 
@@ -129,7 +129,7 @@
 // }
 // else {
 //     alert(`Sorry!!! No Discount Avalaible`);
-// }   
+// }
 
 
 
@@ -146,10 +146,10 @@
 //     fare = distance * 10;
 // }
 // else if (distance <= 15) {
-//     fare = (5 * 10) + ((distance - 5) * 6);
+//     fare = (5 * 10) + ((distance - 5) * 8);
 // }
 // else {
-//     fare = (5 * 10) + (10 * 6);
+//     fare = (5 * 10) + ((distance - 5) * 8) + ((distance - 15) * 6);
 // }
 // alert(`Your Total fare for ${distance}km is Rs.${fare}`);
 
